@@ -7,7 +7,7 @@ root.title("Bildanzeige-Test")
 root.geometry("400x400")  
  
 
-bilddatei = "Jill.jpg"
+bilddatei = "Jill_Valentine.png"
  
 try:
     image = Image.open(bilddatei)
